@@ -1,0 +1,15 @@
+@import url('./containers/header.css');
+@import url('./containers/carrosel.css');
+@import url('./containers/filmePrincipal.css');
+@import url('/css/containers/footer.css');
+.filme-principal{
+    font-size:16px;
+    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa_doc.jpg');
+
+ 
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}

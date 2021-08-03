@@ -1,0 +1,22 @@
+.container-series {
+    margin: 20px 20px 20px 20px;
+    height: 100%;
+   
+    display: block;
+   
+}
+.filme-principal .container{
+    width: 70%;
+}
+
+.carrosel-filmes{
+    margin-top:5px;
+}
+
+.box-filme{
+   background-color: red;
+   cursor: pointer;
+}
+.infoSeries{
+    margin-top: 40px;
+}

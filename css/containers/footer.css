@@ -1,0 +1,36 @@
+footer{
+    display: flex;
+    justify-content: center;
+}
+.container_footer{
+    display: flex;
+    margin: 50px;
+    height: 200px;
+
+    flex-direction: row;
+    justify-content: space-between;
+    width: 50%;
+   align-items: center;
+} 
+.container_footer a{
+    color: #fff;
+}  
+.contact{
+    display: flex;
+    flex-direction: column;
+}
+.media img{
+    width: 50px;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+}
+.audio{
+    display: flex;
+   flex-direction: column;
+}
+.ajuda{
+    display: flex;
+    flex-direction: column;
+}
